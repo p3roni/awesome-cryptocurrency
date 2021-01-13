@@ -88,6 +88,14 @@ thanks to https://github.com/Liquidator2048
 - [Tuned](https://tuned.com/) - Piattaforma per creazione ed esecuzione di strategie personalizzate ( supporto "base" anche per pinescript )
 - [HaasOnline](https://www.haasonline.com/)
 - [Wunderbit](https://trading.wunderbit.co/)
+- [3commas](https://3commas.io/)
+- [Tradesanta](https://trading.wunderbit.co/)
+- [Credium](https://credium.io/)
+
+### Trading Automatico - Video Tutorial
+
+- [Youtube Video]](https://www.youtube.com/watch?v=OJEr4D14UbU) - 3Commas Trading Bot Complete Walkthrough
+
 
 
 ## Grafici e Dati
