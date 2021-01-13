@@ -1,4 +1,5 @@
 # Awesome Criptovalute
+thanks to https://github.com/Liquidator2048
 
 ## Contents
 
