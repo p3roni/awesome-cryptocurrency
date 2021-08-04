@@ -6,6 +6,7 @@ thanks to https://github.com/Liquidator2048
 - [Exchanges](#exchanges)
 - [Trading Automatico](#trading-automatico)
 - [Grafici e Dati](#grafici-e-dati)
+- [DeFi](#links-and-platforms)
 - [Misc.](#misc)
 
 ## Exchanges
@@ -122,11 +123,21 @@ thanks to https://github.com/Liquidator2048
 
 ## Terra
 
-Mirror is a DeFi protocol powered by smart contracts on the Terra network that enables the creation of synthetic assets called Mirrored Assets (mAssets) and it offers several different avenues for earning yield. There are 3 primary strategies for earning yield with Mirror and Anchor 
+Mirror is a DeFi protocol powered by smart contracts on the Terra network that enables the creation of synthetic assets called Mirrored Assets (mAssets) and it offers several 
+different avenues for earning yield. There are 3 primary strategies for earning yield with Mirror and Anchor 
+
+### Useful links
 
 - [Mirror Tracker](http://www.mirrortracker.info/charts)
 - [Mirror Strategies](https://medium.com/coinmonks/mirror-v2-whats-new-walkthrough-and-advanced-farming-strategies-6e48a0b1eff2)
 
+## Trading
+
+Planning and trading
+
+### Trading planning
+
+- [Bitcoin Position Calculator](https://www.cashbackforex.com/it/tools/position-size-calculator/BTCUSD)
 
 ## Misc
 - [Trader Dante - Free Content](https://trader-dante.com/educational-material/#free)
