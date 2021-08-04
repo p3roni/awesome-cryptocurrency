@@ -6,7 +6,7 @@ thanks to https://github.com/Liquidator2048
 - [Exchanges](#exchanges)
 - [Trading Automatico](#trading-automatico)
 - [Grafici e Dati](#grafici-e-dati)
-- [DeFi](#links-and-platforms)
+- [DeFi](#Defi)
 - [Misc.](#misc)
 
 ## Exchanges
@@ -121,12 +121,12 @@ thanks to https://github.com/Liquidator2048
 - [Coin.Market](https://coin.market/)
 - [Smartbit Charts](https://www.smartbit.com.au/charts)
 
-## Terra
+## Defi
+
+### Terra
 
 Mirror is a DeFi protocol powered by smart contracts on the Terra network that enables the creation of synthetic assets called Mirrored Assets (mAssets) and it offers several 
 different avenues for earning yield. There are 3 primary strategies for earning yield with Mirror and Anchor 
-
-### Useful links
 
 - [Mirror Tracker](http://www.mirrortracker.info/charts)
 - [Mirror Strategies](https://medium.com/coinmonks/mirror-v2-whats-new-walkthrough-and-advanced-farming-strategies-6e48a0b1eff2)
